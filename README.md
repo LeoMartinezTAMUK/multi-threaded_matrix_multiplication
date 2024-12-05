@@ -80,6 +80,8 @@ This Python program compares the performance of **sequential** and **parallel** 
 Graphs comparing sequential and parallel execution times are generated from data produced during runtime. These illustrate:
 - Overhead for small matrix sizes in parallel execution.
 - Efficiency gains for larger matrix sizes with parallelism.
+![Sequential Performance Graph](images/seq_graph.png)
+![Parallel Performance Graph](images/par_graph.png)
 
 ### System Requirements:
 
