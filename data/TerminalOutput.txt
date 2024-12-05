@@ -1,0 +1,11 @@
+Performing parallel matrix multiplication with 3 threads... (n>1)
+Thread 0 will compute rows 0 to 0
+Thread 1 will compute rows 1 to 1
+Thread 0: Computed row 0 => Intermediate result: [30. 24. 18.]
+Thread 1: Computed row 1 => Intermediate result: [84. 69. 54.]
+Thread 2 will compute rows 2 to 2
+Thread 2: Computed row 2 => Intermediate result: [138. 114.  90.]
+Resultant Matrix:
+[[ 30.  24.  18.]
+ [ 84.  69.  54.]
+ [138. 114.  90.]]
