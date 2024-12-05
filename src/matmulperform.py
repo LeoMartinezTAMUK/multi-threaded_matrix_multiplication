@@ -1,6 +1,5 @@
 # Sequential and Parallel Execution Performance Compare of Matrix Multiplication
-# Programming Assignment 1 - CSEN 5322 Operating Systems - Fall 2024
-# Leo Martinez III - K00475695
+# Created by: Leo Martinez III in Fall 2024
 
 import numpy as np
 import threading # POSIX
